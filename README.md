@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Yarency Avelar and I was born and raised in East Oakland, Ca. 🌁
+My name is Yarency Avelar, I was born and raised in East Oakland, Ca. 🌁
 
 🌲 I'm a junior studying computer science  at Stanford University with a concentration in Human-Computer-Interaction. I'm passionate about problem-solving and using creativity to design and implement detail-oriented solutions. To further explore my interests and take on new challenges, I am open to any roles related to UI Design or Software Engineering. :)
 
