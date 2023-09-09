@@ -13,7 +13,7 @@ Programming Exposure:
 - 🖥️ Web Development: HTML/CSS/JavaScript (Basics)
 - 📱 Android Development: XML/Java (Basics)
 
-Side note: All of my academic projects are uploaded but remain private in order to respect Stanford University's honor code. If you wish to examine my academic coding projects, please shoot me a message. Thank you!
+**Side note: All of my academic projects are uploaded but remain private in order to respect Stanford University's honor code. If you wish to examine my academic coding projects, please shoot me a message. Thank you!**
 
 <!--
 **y4v3l4r/y4v3l4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
